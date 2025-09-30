@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="72px" viewBox="0 0 29 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Home" transform="translate(-648.000000, -1968.000000)" stroke="#1A1919" stroke-width="0.5">
+            <g id="work" transform="translate(-300.000000, 1862.000000)">
+                <g id="counter" transform="translate(925.000000, 94.000000)">
+                    <path d="M24,84 L51,12" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
